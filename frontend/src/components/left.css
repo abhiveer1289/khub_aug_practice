@@ -1,0 +1,33 @@
+.left{
+    position: absolute;
+    top: 60%;
+    left: 60px;
+    transform: translateY(-50%);
+}
+.form0{
+    position: absolute;
+    background-color: brown;
+    top: 18%;
+    left: 5%;
+    height: 360px;
+    width: 360px;
+    border-radius: 5%;
+}
+.form1{
+    position: absolute;
+    background-color: brown;
+    top: 18%;
+    left: 25%;
+    height: 360px;
+    width: 360px;
+    border-radius: 5%;
+}
+.form2{
+    position: absolute;
+    background-color: brown;
+    top: 18%;
+    left: 45%;
+    height: 360px;
+    width: 360px;
+    border-radius: 5%;
+}

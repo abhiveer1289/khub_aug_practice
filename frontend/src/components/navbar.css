@@ -1,0 +1,11 @@
+.navbar{
+    position: absolute;
+    background-color: #6B90BF;
+    height: 160px;
+    width: 1920px;
+    color: aliceblue;
+}
+.h1{
+    position: absolute;
+    left: 30px;
+}

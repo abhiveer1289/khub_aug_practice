@@ -1,0 +1,10 @@
+.form{
+    position: absolute;
+    background-color: #6B90BF;
+    top: 50%;
+    right: 60px;
+    width: 588px;
+    height: 656px;
+    transform: translateY(-50%);
+    border-radius: 5%;
+}
