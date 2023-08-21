@@ -6,28 +6,28 @@
 }
 .form0{
     position: absolute;
-    background-color: brown;
+    background-color: #B56464;
     top: 18%;
     left: 5%;
-    height: 360px;
-    width: 360px;
+    padding: 120px;
     border-radius: 5%;
+    border: 7px solid #d8d8d8;
 }
 .form1{
     position: absolute;
-    background-color: brown;
+    background-color: #B56464;
     top: 18%;
     left: 25%;
-    height: 360px;
-    width: 360px;
+    padding: 120px;
     border-radius: 5%;
+    border: 7px solid #d8d8d8;
 }
 .form2{
     position: absolute;
-    background-color: brown;
+    background-color: #B56464;
     top: 18%;
     left: 45%;
-    height: 360px;
-    width: 360px;
+    padding: 120px;
     border-radius: 5%;
+    border: 7px solid #d8d8d8;
 }

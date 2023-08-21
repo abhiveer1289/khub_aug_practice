@@ -8,7 +8,7 @@ const Footer=()=>{
         </div>
   
         <div className="main-footer">
-          copyrights
+          2023 © Copyright Abhiveer. No Rights Reserved.
         </div>
       </footer>
     );

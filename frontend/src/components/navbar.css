@@ -1,11 +1,36 @@
-.navbar{
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
     position: absolute;
-    background-color: #6B90BF;
-    height: 160px;
-    width: 1920px;
-    color: aliceblue;
-}
-.h1{
-    position: absolute;
-    left: 30px;
-}
+    width: 100%;
+  }
+  
+  .header-section {
+    flex-grow: 1;
+    padding: 18px;
+    text-align: center;
+  }
+  
+  .header-section:nth-child(1) {
+    background-color: #6789BB; 
+    flex-basis:60%;
+    text-align: left;
+    -webkit-text-fill-color: antiquewhite;
+  }
+  
+  .header-section:nth-child(2) {
+    background-color: #4B6488;
+    flex-basis: 20%;
+  }
+  
+  .header-section:nth-child(3) {
+    background-color: #2D3B51;
+    flex-basis: 20%;
+  }
+  
+  .h3 {
+    margin: 0;
+    color: white;
+    margin: 20px;
+  }

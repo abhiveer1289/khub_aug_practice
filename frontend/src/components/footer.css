@@ -3,9 +3,8 @@
     background-color: #324359;
     margin: 0%;
     color: white;
-    padding: 0px;
-    
-    position: fixed;
+    padding: 0px; 
+    position: absolute;
     bottom: 0;
     width: 100%;
 }
@@ -13,7 +12,11 @@
 .upper-footer{
     text-align: center;
     background-color: #476a97;
-    padding: 10px;
+    padding: 25px;
+    background-image: url(C:\Users\sruthi\OneDrive\Desktop\test\khub_aug_practice\frontend\src\components\git.png);
+    background-size: 40px;
+    background-position: 99%;
+    background-repeat: no-repeat;
 }
 .main-footer{
     padding: 10px;
