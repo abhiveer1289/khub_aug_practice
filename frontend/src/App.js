@@ -3,7 +3,7 @@ import Navbar from "./components/navbar";
 import Footer from "./components/footer";
 import RightBox from "./components/right";
 import LeftThing from "./components/left";
-import "./App.css"
+
 
 function App() {
   return (
