@@ -12,6 +12,10 @@ const leftThing=()=>{
             <form className="form2">
                 <label></label>
             </form>
+            <div className="text">
+                <h1>Statistics</h1>
+                <p>List six different intresting statistics regarding your data (for example min,max,median,etc.)</p>
+            </div>
         </div>
     );
 }

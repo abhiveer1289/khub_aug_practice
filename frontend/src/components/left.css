@@ -31,3 +31,10 @@
     border-radius: 5%;
     border: 7px solid #d8d8d8;
 }
+
+.text{
+    position: absolute;
+    top: 60%;
+    left: 60px;
+    transform: translateY(-50%);
+}
