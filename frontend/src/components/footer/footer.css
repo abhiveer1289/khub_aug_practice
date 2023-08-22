@@ -1,0 +1,29 @@
+.box {
+    height: 50px;
+    width: 100%;
+  }
+  
+  .box .rectangle {
+    background-color: #4b6388;
+    height: 80px;
+    left: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-image: url(C:\Users\sruthi\OneDrive\Desktop\test\khub_aug_practice\frontend\src\components\git.png);
+    background-size: 35px;
+    background-position: 99%;
+    background-repeat: no-repeat;
+    background-position-y: 5px;
+  }
+  .copyright{
+    background-color: #2c3b50;
+    height: 35px;
+    position: relative;
+    text-align: center;
+    
+    left: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }

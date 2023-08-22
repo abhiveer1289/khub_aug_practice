@@ -32,9 +32,39 @@
     border: 7px solid #d8d8d8;
 }
 
+
+.form3{
+    position: absolute;
+    background-color: #B56464;
+    top: 50%;
+    left: 5%;
+    padding: 120px;
+    border-radius: 5%;
+    border: 7px solid #d8d8d8;
+}
+
+.form4{
+    position: absolute;
+    background-color: #B56464;
+    top: 50%;
+    left: 25%;
+    padding: 120px;
+    border-radius: 5%;
+    border: 7px solid #d8d8d8;
+}
+.form5{
+    position: absolute;
+    background-color: #B56464;
+    top: 50%;
+    left: 45%;
+    padding: 120px;
+    border-radius: 5%;
+    border: 7px solid #d8d8d8;
+}
+
 .text{
     position: absolute;
-    top: 60%;
+    top: 82%;
     left: 60px;
     transform: translateY(-50%);
 }
