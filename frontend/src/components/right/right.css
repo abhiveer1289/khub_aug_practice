@@ -1,17 +1,17 @@
-.form {
-  height: 400px;
-  width: 300px;
+.divi {
+  position: absolute;
+  top: 18%;
+  right: 5%;
+  width: 500px;
 }
 
-.form .form-size {
+.form-size {
   background-color: #7c8a9f;
   border-radius: 16px;
-  height: 570px;
+  height: 450px;
   right: 60px;
-  padding: 22px;
-  position: fixed;
-  top: 18%;
-  width: 500px;
+  padding: 22px;  
+  margin-bottom: 10%;
   overflow: hidden;
   background-image: url(C:\Users\sruthi\OneDrive\Desktop\test\khub_aug_practice\frontend\src\components\database.png);
   background-repeat: no-repeat;
@@ -20,7 +20,7 @@
   background-position-y:42px ;
 }
 
-.form .form-size h1.type-text {
+.divi .form-size h1.type-text {
   position: absolute;
   top: 15%;
   margin: 0;
@@ -37,4 +37,15 @@
   top:2%;
   left:9%;
   
+}
+
+@media (max-width: 762px) {
+  .divi{
+    flex-direction: column;
+    justify-content: last baseline;
+  }
+  .form-size{
+    margin: 10%;
+    margin-top: 25%;
+  }
 }

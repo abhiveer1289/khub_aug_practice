@@ -9,7 +9,8 @@
     background-color: #B56464;
     top: 18%;
     left: 5%;
-    padding: 120px;
+    height: 200px;
+    width: 200px;
     border-radius: 5%;
     border: 7px solid #d8d8d8;
 }
@@ -18,7 +19,8 @@
     background-color: #B56464;
     top: 18%;
     left: 25%;
-    padding: 120px;
+    height: 200px;
+    width: 200px;
     border-radius: 5%;
     border: 7px solid #d8d8d8;
 }
@@ -27,7 +29,8 @@
     background-color: #B56464;
     top: 18%;
     left: 45%;
-    padding: 120px;
+    height: 200px;
+    width: 200px;
     border-radius: 5%;
     border: 7px solid #d8d8d8;
 }
@@ -38,7 +41,8 @@
     background-color: #B56464;
     top: 50%;
     left: 5%;
-    padding: 120px;
+    height: 200px;
+    width: 200px;
     border-radius: 5%;
     border: 7px solid #d8d8d8;
 }
@@ -48,7 +52,8 @@
     background-color: #B56464;
     top: 50%;
     left: 25%;
-    padding: 120px;
+    height: 200px;
+    width: 200px;
     border-radius: 5%;
     border: 7px solid #d8d8d8;
 }
@@ -57,14 +62,9 @@
     background-color: #B56464;
     top: 50%;
     left: 45%;
-    padding: 120px;
+    height: 200px;
+    width: 200px;
     border-radius: 5%;
     border: 7px solid #d8d8d8;
 }
 
-.text{
-    position: absolute;
-    top: 82%;
-    left: 60px;
-    transform: translateY(-50%);
-}
